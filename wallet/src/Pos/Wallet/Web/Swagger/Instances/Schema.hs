@@ -1,4 +1,5 @@
-{-# LANGUAGE OverloadedLists, CPP #-}
+{-# LANGUAGE CPP             #-}
+{-# LANGUAGE OverloadedLists #-}
 
 {-# OPTIONS_GHC -fno-warn-orphans #-}
 

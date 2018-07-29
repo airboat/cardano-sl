@@ -1,3 +1,4 @@
+{-# LANGUAGE CPP                        #-}
 {-# LANGUAGE ConstraintKinds            #-}
 {-# LANGUAGE DeriveGeneric              #-}
 {-# LANGUAGE DerivingStrategies         #-}
@@ -9,7 +10,6 @@
 {-# LANGUAGE PolyKinds                  #-}
 {-# LANGUAGE StrictData                 #-}
 {-# LANGUAGE TemplateHaskell            #-}
-{-# LANGUAGE CPP                        #-}
 
 -- The hlint parser fails on the `pattern` function, so we disable the
 -- language extension here.
